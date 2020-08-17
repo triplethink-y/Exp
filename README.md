@@ -1,2 +1,2 @@
 # Exp
-experimenting with photons
+experimenting with the Photons group chat to familiarize with github.
